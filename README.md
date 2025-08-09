@@ -1,5 +1,3 @@
-Here’s your updated README with clear steps for creating a `.venv`, installing dependencies, and then building the project. I kept the tone tight and dev-friendly:
-
 ---
 
 # HabitPy
@@ -111,5 +109,3 @@ Then, use the commands:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W318WNN8)
 
 ---
-
-Let me know if you also want a `Makefile`, `.env.example`, or add badges for PyPI/release status.
